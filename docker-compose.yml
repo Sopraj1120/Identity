@@ -1,0 +1,18 @@
+services:
+  identitypoddle:
+    image: ${DOCKER_REGISTRY-}identitypoddle
+    build:
+      context: .
+      dockerfile: IdentityPoddle/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: 8080
+     
+      ConnectionStrings__DefaultConnection: "Server=20.195.14.158,50001;Database=PoddleTest1;User=Mayooran;Password=7%qzj#J9^An%PxZ5;MultipleActiveResultSets=true;TrustServerCertificate=True"
+    ports:
+      - "5000:8080"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
