@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\migrations\\20250312164905_forusingdocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\migrations\\20250312164905_forusingdocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\migrations\\20250312163914_changenullforaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\migrations\\20250312163914_changenullforaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\identitypoddle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\identitypoddle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\migrations\\20250312164905_forusingdocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\migrations\\20250312164905_forusingdocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\migrations\\20250312120340_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\entity\\otprecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\entity\\otprecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\services\\emailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\models\\forgotpasswordmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|c:\\users\\user\\onedrive\\desktop\\poddle\\identity\\identitypoddle\\identitypoddle\\identitypoddle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{20CF720A-AC6E-44B6-8BAE-BFFB07C6ED36}|IdentityPoddle\\IdentityPoddle.csproj|solutionrelative:identitypoddle\\identitypoddle.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,63 +78,60 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "20250312164905_forusingdocker.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Migrations\\20250312164905_forusingdocker.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Migrations\\20250312164905_forusingdocker.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Migrations\\20250312164905_forusingdocker.cs",
               "RelativeToolTip": "IdentityPoddle\\Migrations\\20250312164905_forusingdocker.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBQwBwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:49:05.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:49:05.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "20250312163914_changenullforaddress.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Migrations\\20250312163914_changenullforaddress.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Migrations\\20250312163914_changenullforaddress.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Migrations\\20250312163914_changenullforaddress.cs",
               "RelativeToolTip": "IdentityPoddle\\Migrations\\20250312163914_changenullforaddress.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T16:39:14.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T16:39:14.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "20250312120340_init.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Migrations\\20250312120340_init.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Migrations\\20250312120340_init.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Migrations\\20250312120340_init.cs",
               "RelativeToolTip": "IdentityPoddle\\Migrations\\20250312120340_init.cs",
-              "ViewState": "AgIAANgAAAAAAAAAAAAAAAIBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAANIAAAAAAAAAAIBZwAIBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T12:03:40.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T12:03:40.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Program.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Program.cs",
-              "RelativeToolTip": "IdentityPoddle\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBsAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Program.cs*",
+              "RelativeToolTip": "IdentityPoddle\\Program.cs*",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwEAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T11:07:31.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ResetPasswordModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Models\\ResetPasswordModel.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Models\\ResetPasswordModel.cs",
@@ -142,12 +139,11 @@
               "RelativeToolTip": "IdentityPoddle\\Models\\ResetPasswordModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T10:54:14.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T10:54:14.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ForgotPasswordModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Models\\ForgotPasswordModel.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Models\\ForgotPasswordModel.cs",
@@ -155,12 +151,11 @@
               "RelativeToolTip": "IdentityPoddle\\Models\\ForgotPasswordModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T10:53:49.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T10:53:49.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Models\\RegisterModel.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Models\\RegisterModel.cs",
@@ -168,38 +163,36 @@
               "RelativeToolTip": "IdentityPoddle\\Models\\RegisterModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T10:53:28.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T10:53:28.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Controllers\\AuthController.cs",
               "RelativeToolTip": "IdentityPoddle\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowD4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T10:51:03.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "EmailServices.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Services\\EmailServices.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Services\\EmailServices.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Services\\EmailServices.cs",
               "RelativeToolTip": "IdentityPoddle\\Services\\EmailServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwE0AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T10:23:55.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T10:23:55.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "OtpRecord.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Entity\\OtpRecord.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Entity\\OtpRecord.cs",
@@ -207,12 +200,11 @@
               "RelativeToolTip": "IdentityPoddle\\Entity\\OtpRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T10:21:51.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T10:21:51.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Entity\\User.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Entity\\User.cs",
@@ -220,12 +212,11 @@
               "RelativeToolTip": "IdentityPoddle\\Entity\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T10:17:11.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T10:17:11.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\appsettings.json",
               "RelativeDocumentMoniker": "IdentityPoddle\\appsettings.json",
@@ -238,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "docker-compose.override.yml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
@@ -246,12 +237,11 @@
               "RelativeToolTip": "docker-compose.override.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-03-12T10:08:16.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T10:08:16.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -259,12 +249,11 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-03-12T10:08:14.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T10:08:14.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Dockerfile",
               "RelativeDocumentMoniker": "IdentityPoddle\\Dockerfile",
@@ -272,34 +261,31 @@
               "RelativeToolTip": "IdentityPoddle\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-12T10:08:00.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T10:08:00.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "UserDbcontext.cs",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Database\\UserDbcontext.cs",
               "RelativeDocumentMoniker": "IdentityPoddle\\Database\\UserDbcontext.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\Database\\UserDbcontext.cs",
               "RelativeToolTip": "IdentityPoddle\\Database\\UserDbcontext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T10:07:41.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T10:07:41.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "IdentityPoddle.csproj",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\IdentityPoddle.csproj",
               "RelativeDocumentMoniker": "IdentityPoddle\\IdentityPoddle.csproj",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Poddle\\Identity\\IdentityPoddle\\IdentityPoddle\\IdentityPoddle.csproj",
               "RelativeToolTip": "IdentityPoddle\\IdentityPoddle.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-12T10:07:07.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T10:07:07.821Z"
             }
           ]
         }

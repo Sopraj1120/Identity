@@ -15,13 +15,14 @@ namespace IdentityPoddle.Controllers
     {
         private readonly UserManager<User> _userManager;
         private readonly UserDbcontext _context;
-        private readonly EmailServices _emailServices;
+        private readonly IEmailSender<User> _emailSender;
 
-        public AuthController(UserManager<User> userManager, UserDbcontext context, EmailServices emailServices)
+        public AuthController(UserManager<User> userManager, UserDbcontext context, IEmailSender<User> emailSender)
         {
             _userManager = userManager;
             _context = context;
-            _emailServices = emailServices;
+            _emailSender = emailSender;
+         
         }
 
 
@@ -47,7 +48,7 @@ namespace IdentityPoddle.Controllers
         }
 
         [HttpPost("forgot-password")]
-        public async Task<IActionResult> ForgotPassword( ForgotPasswordModel forgotPasswordModel)
+        public async Task<IActionResult> ForgotPassword(ForgotPasswordModel forgotPasswordModel)
         {
             var user = await _userManager.FindByEmailAsync(forgotPasswordModel.Email).ConfigureAwait(false);
             if (user == null)
@@ -67,9 +68,8 @@ namespace IdentityPoddle.Controllers
             _context.OtpRecords.Add(otpRecord);
             await _context.SaveChangesAsync().ConfigureAwait(false);
 
-            _emailServices.SendOtpEmail(forgotPasswordModel.Email, otp);
+            await _emailSender.SendPasswordResetCodeAsync(user, forgotPasswordModel.Email, otp);
             return Ok(new { Message = "OTP sent to your email" });
-
         }
 
         [HttpPost("reset-password")]

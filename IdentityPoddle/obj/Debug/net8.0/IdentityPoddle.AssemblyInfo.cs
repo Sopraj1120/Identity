@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdentityPoddle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cb11bf3d23f79d787b99d2f48dd2a2975a81b2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdentityPoddle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdentityPoddle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

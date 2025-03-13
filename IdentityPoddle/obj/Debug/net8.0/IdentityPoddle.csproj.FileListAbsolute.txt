@@ -139,3 +139,5 @@ C:\Users\User\OneDrive\Desktop\Poddle\Identity\IdentityPoddle\IdentityPoddle\obj
 C:\Users\User\OneDrive\Desktop\Poddle\Identity\IdentityPoddle\IdentityPoddle\obj\Debug\net8.0\IdentityPoddle.pdb
 C:\Users\User\OneDrive\Desktop\Poddle\Identity\IdentityPoddle\IdentityPoddle\obj\Debug\net8.0\IdentityPoddle.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\Poddle\Identity\IdentityPoddle\IdentityPoddle\obj\Debug\net8.0\ref\IdentityPoddle.dll
+C:\Users\User\OneDrive\Desktop\Poddle\Identity\IdentityPoddle\IdentityPoddle\obj\Debug\net8.0\IdentityPoddle.sourcelink.json
+C:\Users\User\OneDrive\Desktop\Poddle\Identity\IdentityPoddle\IdentityPoddle\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
